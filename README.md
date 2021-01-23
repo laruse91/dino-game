@@ -1,4 +1,4 @@
-[![header](https://github.com/laruse91/dino-game/blob/main/img/title.png?raw=true)](https://laruse91-dino.web.app)
+[![header](https://github.com/laruse91/dino-game/blob/main/img/title.png?raw=true)](https://laruse91-dino.web.app)  
 You can see this little game by link below:  
 [simple-dino](https://laruse91-dino.web.app)  
 
